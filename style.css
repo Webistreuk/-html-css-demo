@@ -1,0 +1,73 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.one {
+    width: 60px;
+    height: 60px;
+}
+
+img {
+    width: 300px;
+    height: 260px;
+}
+
+.ttt {
+    color: rgb(255, 110, 74);
+}
+
+header {
+    background-color: rgb(214, 169, 169);
+}
+
+.item {
+        width: 26px;
+        height: 20px;
+        background-color: rgb(192, 38, 38);
+}
+
+ul {
+    display: flex;
+    gap: 20px;
+    padding: 0px 0px 20px 0px;
+}
+
+ul li {
+    list-style: none;
+    background-color: rgb(193, 197, 231);
+    color: rgb(82, 255, 255);
+    border-radius: 8px ;
+}
+
+
+
+ul li a{
+    text-decoration: none;
+    color: rgb(255, 87, 87);
+}
+
+main {
+    height: 50%;
+    background-color: rgb(226, 240, 201);
+ }
+
+ .item1 {
+    background-color: rgb(122, 136, 119);
+    width:  200px;
+    height: 200px;
+    padding-left: 50px;
+    border: 2px solid black;
+ }
+
+ .sword {
+    background-color: rgb(73, 175, 141);
+    width: 1520px;
+    height: 60px;
+}
+
+.tree {
+    color: #000;
+    padding-left: 450px;
+    padding-top: 15px;
+}
